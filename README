@@ -1,0 +1,6 @@
+
+use sphinx to writer memoirist
+
+pip install Sphinx
+sphinx-quickstart
+make html
