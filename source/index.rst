@@ -13,6 +13,9 @@ Memoirist
    language/index
    algorithm/index
    ml/index
+   database/index
+   tools/index
+   sundry/index
 
 
 Indices and tables
