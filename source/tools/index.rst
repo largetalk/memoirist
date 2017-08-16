@@ -8,3 +8,4 @@
 
    storm
    spark
+   kafka
