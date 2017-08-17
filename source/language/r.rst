@@ -161,3 +161,17 @@ rfunc(n, p1, p2...) 可以被替换成dfunc(x,...) (密度函数), pfunc(x,...) 
   stars(x)
   symbols(x, y, ...)
   termplot(mod.obj)
+
+::
+
+  print
+  summary
+  df.residual
+  coef
+  residuals
+  deviance
+  fitted
+  logLik
+  AIC
+
+尽量用apply, lapply取代循环
