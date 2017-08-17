@@ -12,3 +12,6 @@ or
 *equals*
 
 使用equals而不是==
+
+break label; //跳出外循环
+continue label; //跳到外循环
