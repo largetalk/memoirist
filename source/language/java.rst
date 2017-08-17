@@ -8,3 +8,7 @@ Java
 or
 
 > Pattern.compile(reg, Pattern.DOTALL);
+
+*equals*
+
+使用equals而不是==
