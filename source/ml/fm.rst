@@ -28,7 +28,7 @@ Factorization Machine
 
 1. Regression
 
-   在回归问题中，使用 :math: `\hat{y}` 作为预测结果，使用最小均方误差(the least square error)作为优化的标准:
+   在回归问题中，使用 :math:`\hat{y}` 作为预测结果，使用最小均方误差(the least square error)作为优化的标准:
 
 .. math::
   loss^{R}(\hat{y}, y) = \frac{1}{2}\sum_{i=1}^{m}(\hat{y}^{(i)} - y^{(i)})^{2}
@@ -40,7 +40,7 @@ Factorization Machine
 .. math::
   loss^{C}(\hat{y}, y) = \sum_{i=1}^{m}-ln\sigma(\hat{y}^{(i)}y^{(i)})
 
-其中, :math: `\sigma` 表示的是阶跃函数Sigmoid.
+其中, :math:`\sigma` 表示的是阶跃函数Sigmoid.
 
 求解
 ======================
